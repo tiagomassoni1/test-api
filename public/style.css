@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(235, 235, 235, 0.932);
+    font: normal 15pt Arial;
+
+}
+
+header {
+    color: rgb(3, 3, 3);
+    text-align: center;
+
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
+
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+
+}
+
+#request {
+    text-align: center;
+    margin-left: 520px;
+    margin-bottom: 30px;
+}
